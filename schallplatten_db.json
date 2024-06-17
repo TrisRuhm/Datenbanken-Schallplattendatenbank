@@ -1,0 +1,52 @@
+{
+  "vinyl_table": {
+    "1": {
+      "title": "Watch",
+      "artist": "Manfred Mann's Earth Band",
+      "release_date": "1978",
+      "type": "Album",
+      "publisher": "Petbrook Ltd.",
+      "ISBN": "5-060051-332005"
+    },
+    "2": {
+      "title": "Rap über Hass",
+      "artist": "K.I.Z",
+      "release_date": "2021",
+      "type": "Album",
+      "publisher": "Vertigo/Capitol",
+      "ISBN": "0602435587448"
+    },
+    "3": {
+      "title": "Heroes",
+      "artist": "David Bowie",
+      "release_date": "1977",
+      "type": "Album",
+      "publisher": "RCA Victor",
+      "ISBN": null
+    },
+    "4": {
+      "title": "30",
+      "artist": "Adele",
+      "release_date": "2021",
+      "type": "Album",
+      "publisher": "Columbia",
+      "ISBN": null
+    },
+    "5": {
+      "title": "Abbey Road",
+      "artist": "The Beatles",
+      "release_date": null,
+      "type": "Album",
+      "publisher": "EMI",
+      "ISBN": null
+    },
+    "6": {
+      "title": "Paranoid",
+      "artist": "Black Sabbath",
+      "release_date": "2023-06-23",
+      "type": "Album",
+      "publisher": "Guardian Records",
+      "ISBN": ""
+    }
+  }
+}
